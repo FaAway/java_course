@@ -31,3 +31,7 @@ Write a Java program that uses the CountDownLatch class to synchronize the start
 7. Access map concurrently with ConcurrentHashMap
 
 Write a Java program demonstrating how to access a map concurrently using the ConcurrentHashMap class.
+
+8. Thread Executor
+
+https://javarush.com/quests/lectures/jru.module2.lecture22
